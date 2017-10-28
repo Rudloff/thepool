@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/Theme.NoBackground">
+    <com.ad.thepool.PoolView
+      android:theme="@style/Theme.NoBackground"
+      android:id="@+id/pool"
+      android:layout_centerInParent="true"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+      android:focusable="true"
+      />
+</RelativeLayout>
+
+

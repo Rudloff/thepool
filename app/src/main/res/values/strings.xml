@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Pool!</string>
+    <string name="app_name">The Pool</string>
+    <string name="menu_main">Main menu</string>
+    <string name="menu_restart_level">Restart Level</string>
+    <string name="menu_save">Save Game</string>
+    <string name="menu_pause">Pause</string>
+    <string name="menu_resume">Resume</string>
+    <string name="menu_quality">Quality</string>
+    <string name="menu_checkpoint">Last Checkpoint</string>
+    
+
+</resources>
